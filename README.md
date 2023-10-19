@@ -55,7 +55,8 @@
       
  # 👌informações variadas (ou de extrema importancia)👌
  <p>
- <img width="200"  height="200" align="right" src="https://c.tenor.com/cXcatp89g1EAAAAM/anime-boy.gif">
+ <img width="200"  height="200" align="right" src="![image](https://github.com/VitorJacintho/VitorJacintho/assets/106183383/dc6f5192-3b92-4692-82ed-4618b4c81e62)
+">
   </p>
   
 - Mono Teemo
