@@ -2,7 +2,7 @@
 
  # Informações Basicas 😁
  
- - 17y
+ - 18y
  
  - Brasil
  
@@ -19,19 +19,11 @@
  
  - Amo cachorros
  
- - Elden Ring é meu jogo favorito
+ - Jogos Souls Like é meu estilo jogo favorito. Ex: Dark Souls, Elden Ring
  
- - Re:zero meu anime favorito
- 
- - Desenvolvedor do charles.com
- 
- - mais de 700 horas de Sea of Thieves
- 
- - mais de 1000 horas no lol
- 
- - ADM de 5 servidores voltados para jogos
- 
- - Cargo alto em guilda de warframe
+ - Apesar de gostar de Souls Like, infelismente tenho mais de 1000 horas no lol
+
+ - Venho desenvolvendo jogos, o que por enquanto vem sendo uma grande paixão
  
  
  
@@ -42,36 +34,33 @@
   
  - ISUL/curso de ingles 
  
- - Tec. em informatica/Satc
+ - Tec. em informatica/Satc : Acabar em 2023
  
  - Curso Design Grafico
  
- - Se jogar for formação eu ja sou senior
- 
- - Experiencia com criação de jogos
+ - Curso de Design de Games : Acabar em 2024
  
  # Experiencias 💪
  <p>
  <img  widht="200" height="200" align="right" src="https://i.gifer.com/origin/9b/9b7f5636e14079f70c84cd6ad99004b1_w200.gif"
       </p>
  
- - Java,C++,Phyton
+ - C#, C++, Phyton
 
- - Unity, construct2, Unreal Engine, RPG Maker VX Ace
+ - Unity, Unreal Engine, RPG Maker VX Ace e um pouco de GameMaker
  
  - Arduino/TinkerCad
  
  - Photoshop
       
- # 👌informações variadas 👌
+ # 👌informações variadas (ou de extrema importancia)👌
  <p>
  <img width="200"  height="200" align="right" src="https://c.tenor.com/cXcatp89g1EAAAAM/anime-boy.gif">
   </p>
   
 - Mono Teemo
 
-- Ferro no lol
+- A unica coisa que eu espero que não aconteça é chegar no ultimo episódeo de one piece e descobrir que o "One Piece" são os amigos que fizemos pelo caminho.(se pelo menos a serie fosse curta)
 
-- Pimentinhaaaa
+- Ísis eu te amo <3
 
-- DxD é mt bom kkkkkkkkkkkkkkkkkkkkkkkk
