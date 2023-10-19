@@ -1,6 +1,6 @@
 ### Vitor-Cittadin-Jacintho
 
- # Informações Basicas 😁
+ # Informações Básicas 😁
  
  - 18y
  
@@ -21,7 +21,7 @@
  
  - Jogos Souls Like é meu estilo jogo favorito. Ex: Dark Souls, Elden Ring
  
- - Apesar de gostar de Souls Like, infelismente tenho mais de 1000 horas no lol
+ - Apesar de gostar de Souls Like, infelizmente tenho mais de 1000 horas no lol
 
  - Venho desenvolvendo jogos, o que por enquanto vem sendo uma grande paixão
  
@@ -32,11 +32,11 @@
  <img widht="200" height="200" align="right" src=https://i.pinimg.com/originals/b1/19/a2/b119a29143147cea5fa38b59af3b41e9.gif>
   </p>
   
- - ISUL/curso de ingles 
+ - ISUL/curso de inglês 
  
- - Tec. em informatica/Satc : Acabar em 2023
+ - Tec. em informática/SATC : Acabar em 2023
  
- - Curso Design Grafico
+ - Curso Design Gráfico
  
  - Curso de Design de Games : Acabar em 2024
  
@@ -53,14 +53,14 @@
  
  - Photoshop
       
- # 👌informações variadas (ou de extrema importancia)👌
+ # 👌informações variadas (ou de extrema importância)👌
  <p>
  <img width="200"  height="200" align="right" src="https://64.media.tumblr.com/a2272b8ebba8e68b6edb83e62b5e107c/tumblr_mxlbb9tiS71sp6e2vo1_400.gif">
   </p>
   
 - Mono Teemo
 
-- A unica coisa que eu espero que não aconteça é chegar no ultimo episódeo de one piece e descobrir que o "One Piece" são os amigos que fizemos pelo caminho.(se pelo menos a serie fosse curta)
+- A única coisa que eu espero que não aconteça é chegar no último episódio de one piece e descobrir que o "One Piece" são os amigos que fizemos pelo caminho. (se pelo menos a serie fosse curta)
 
 - Ísis eu te amo <3
 
