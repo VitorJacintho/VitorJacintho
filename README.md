@@ -55,8 +55,7 @@
       
  # 👌informações variadas (ou de extrema importancia)👌
  <p>
- <img width="200"  height="200" align="right" src="![image](https://github.com/VitorJacintho/VitorJacintho/assets/106183383/dc6f5192-3b92-4692-82ed-4618b4c81e62)
-">
+ <img width="200"  height="200" align="right" src="[![image](https://github.com/VitorJacintho/VitorJacintho/assets/106183383/dc6f5192-3b92-4692-82ed-4618b4c81e62)](https://64.media.tumblr.com/a2272b8ebba8e68b6edb83e62b5e107c/tumblr_mxlbb9tiS71sp6e2vo1_400.gif)">
   </p>
   
 - Mono Teemo
